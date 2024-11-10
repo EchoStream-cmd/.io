@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyBdBmI9KClLJeazI18-WWFPV0ngrSbwTTQ';
+const API_KEY = 'AIzaSyBWY-h3xYdUV87yDuVnKeitYKje65v8g1w';
 let nextPageToken = ''; // For pagination
 let isFetching = false; // To prevent multiple requests at once
 
